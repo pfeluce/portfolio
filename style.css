@@ -187,7 +187,7 @@ a:hover {
     width: 25vw;
 }
 
-@media only screen and (max-width:1500px) {
+@media only screen and (max-width:1000px) {
     
     /* For mobile phones: */
     h3 {
